@@ -24,6 +24,6 @@ Mas información sobre estos servicios y los datos que recopilan se puede encont
 
 También guardamos la información que nos proporcionas si nos escribe un correo a nuestra dirección de correo electrónico de contacto para poder comunicarnos contigo adecuadamente sobre el asunto por el que nos has contactado. Puedes ponerte en contacto conmigo si quieres que borre estos datos.
 
-La app ha sido desarrollada por David Hervas, Carlet, Valencia  . Para cualquier duda relacionada con la app o esta política de privacidad, puedes contactar conmigo en la dirección de correo electrónico de contacto fourchops@gmail.com
+La app ha sido desarrollada por David, Valencia. Para cualquier duda relacionada con la app o esta política de privacidad, puedes contactar conmigo en la dirección de correo electrónico de contacto fourchops@gmail.com
 
-Nos reservamos el derecho de hacer cambios a esta Política de Uso y Privacidad. La última modificación fue hecha el 20 de septiembre de 2018.
+Nos reservamos el derecho de hacer cambios a esta Política de Uso y Privacidad. La última modificación fue hecha el 29 de septiembre de 2018.
